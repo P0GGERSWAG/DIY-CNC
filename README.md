@@ -17,6 +17,7 @@ GRBL
 CAD - 
 This CAD model is slightly messy with some parts missing here and there, though these are considered in the BOM. The build uses 300+ screws to attach everything and uses an assortment of M6, M5, M4, and M3 screws. 
 Parts colored in black are all printable, with the white being made of aluminum. Most of the aluminum parts, though, can be made of 3d printed parts with loss of accuracy. 
+The base can be made of either PLA/ABS with it being a concrete poured mold. Along with the concrete threaded rods are placed to add greater strength along with coupler nuts.
 
 Bill of Materials:
 https://docs.google.com/document/d/1SkERPSoR8iWG40bx3YqEnEg6MCOHkP-ulHTMdxtHGsY/edit?usp=sharing
