@@ -14,7 +14,9 @@ Specs -
 Software - 
 GRBL 
 
-Bill of Materials and Build Instructions:
+Bill of Materials:
 https://docs.google.com/document/d/1SkERPSoR8iWG40bx3YqEnEg6MCOHkP-ulHTMdxtHGsY/edit?usp=sharing
+
+Build Instructions are due to be added once parts are ordered and the build is built.
 
 Submitted on Stardance for funding.
