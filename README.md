@@ -2,7 +2,7 @@
 
 This design is my take on the common gantry CNC mill. 
 
-<img width="1053" height="988" alt="Screenshot 2026-09-18 205618" src="https://github.com/user-attachments/assets/31d0adc3-f3d0-4f1f-9ee7-5100f57f698c" />
+assets/655004650-31d0adc3-f3d0-4f1f-9ee7-5100f57f698c.png
 
 Specs - 
 
