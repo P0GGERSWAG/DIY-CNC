@@ -23,6 +23,7 @@ A few of the parts like the 800W water-cooled spindle and the use of SFU1204 bal
 
 ### Firmware/Software - 
 GRBL - https://github.com/gnea/grbl/releases#release-v1.1h.20190825
+
 UGS - https://github.com/winder/Universal-G-Code-Sender
 
 ### Bill of Materials - 
