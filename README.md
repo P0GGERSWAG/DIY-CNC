@@ -52,7 +52,7 @@ To note, the aluminum parts at the end for for a set of custom milled UPGRADES A
 |2020 Extruded Aluminum: 400mm 500mm 560mm |	105.28	| https://www.aliexpress.us/item/3256807923095651.html |1 400mm 2 500mm 2 560mm | 16 |
 |Frame rails and y axis brace | 242.2 | https://jlccnc.com/ | 2 frame rails 1 axis brace | 17 |
 |Random wood board from basement 👍 | 0 |    |   1	| 18 |
-|Aluminum parts |	242.2 (FOR FUTURE NOT MADE YET) |	https://www.midweststeelsupply.com/store/6061aluminumplate | 3 of 15x5.5 2 of 12.5x4 |	19 | 
+|Aluminum parts (POTENTIAL UPGRADES IS NOT CONSIDERED IN TOTAL) |	242.2 (FOR FUTURE NOT MADE YET) |	https://www.midweststeelsupply.com/store/6061aluminumplate | 3 of 15x5.5 2 of 12.5x4 |	19 | 
 
 |Total | 1192.08 |
 |----- | ------- |
