@@ -10,7 +10,7 @@ The main focus of the design was to develop a rigid and stable machine that will
 ### CAD - 
 The design is essentially complete, with minor changes that are going to be applied once greater testing occurs. 
 
-### Part Selection - 
+### Part Selection Reasoning - 
 A few of the parts like the 800W water-cooled spindle and the use of SFU1204 ball screws may be questioned, though they were generally chosen to ensure that the parts come nearly 100% safe and simpler to use. Regarding the 800W spindle combo, when researching for a specific spindle I had to consider 3 major things: US power constraints, cooling, and noise. Companies like RATTMOTOR and etc, came up commonly, though when reading each of their reviews they were extremely mixed. Leading me to choose a Chinese company, G-Penny. They sell high quality spindles with solid ceramic bearings and wiring I don't have to tamper with, along with this it simplifies the search, since I needed a VFD that could run 110V. The SFU1204 ball screw was chosen specifically for accuracy, since I plan on making some extremely precise builds in the future and need that accuracy. The use of GRBL and the arduino system was quickly switched to mainly due to the need to reduce cost. The rail selection was based off of sizing and the availability of each on Aliexpress.
 
 ### Specifications - 
@@ -30,7 +30,7 @@ UGS - https://github.com/winder/Universal-G-Code-Sender
 https://docs.google.com/document/d/1SkERPSoR8iWG40bx3YqEnEg6MCOHkP-ulHTMdxtHGsY/edit?usp=sharing
 
 Prices may fluctuate from initial values as time passes. It also does not consider taxes and shipping due to the variance.
-Bill of Materials assumes you own a 3d printer already because why are you building a CNC if you don't already own a 3d printer
+BOM and total do not include 3d printed parts as it is assumed one already own's a 3d printer. (self funded in my case)
 
 To note, the aluminum parts at the end for a set of custom milled UPGRADES AND not are required parts, since they can be easily 3d printed and use a set of complex geometries.
 
