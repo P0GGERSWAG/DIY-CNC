@@ -1,6 +1,6 @@
 # DIY-CNC
 
-This design is my take on the common gantry CNC mill. 
+This design is my take on the common gantry CNC mill. The design is also more specific toward the US.
 
 <img width="1053" height="988" alt="image" src="https://github.com/user-attachments/assets/30792567-220d-4f82-8aaf-6d99ac522dec" />
 
