@@ -30,6 +30,8 @@ UGS - https://github.com/winder/Universal-G-Code-Sender
 https://docs.google.com/document/d/1SkERPSoR8iWG40bx3YqEnEg6MCOHkP-ulHTMdxtHGsY/edit?usp=sharing
 
 Prices may fluctuate from initial values as time passes. It also does not consider taxes and shipping due to the variance.
+Bill of Materials assumes you own a 3d printer already because why are you building a CNC if you don't already own a 3d printer
+
 To note, the aluminum parts at the end for for a set of custom milled UPGRADES AND not a required part.
 
 | Part | Cost | Link	| Quantity | Reference Num |
