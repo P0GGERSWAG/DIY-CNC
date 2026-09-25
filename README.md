@@ -32,7 +32,7 @@ https://docs.google.com/document/d/1SkERPSoR8iWG40bx3YqEnEg6MCOHkP-ulHTMdxtHGsY/
 Prices may fluctuate from initial values as time passes. It also does not consider taxes and shipping due to the variance.
 Bill of Materials assumes you own a 3d printer already because why are you building a CNC if you don't already own a 3d printer
 
-To note, the aluminum parts at the end for for a set of custom milled UPGRADES AND not a required part.
+To note, the aluminum parts at the end for a set of custom milled UPGRADES AND not are required parts, since they can be easily 3d printed and use a set of complex geometries.
 
 | Part | Cost | Link	| Quantity | Reference Num |
 | ---- | ---- | ----  | -------- | ------------- |
