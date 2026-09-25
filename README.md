@@ -30,7 +30,7 @@ UGS - https://github.com/winder/Universal-G-Code-Sender
 https://docs.google.com/document/d/1SkERPSoR8iWG40bx3YqEnEg6MCOHkP-ulHTMdxtHGsY/edit?usp=sharing
 
 Prices may fluctuate from initial values as time passes. It also does not consider taxes and shipping due to the variance.
-BOM and total do not include 3d printed parts as it is assumed one already own's a 3d printer. (self funded in my case)
+BOM and total do not include 3d printed parts as it is assumed one already owns a 3d printer. (self funded in my case)
 
 To note, the aluminum parts at the end for a set of custom milled UPGRADES AND not are required parts, since they can be easily 3d printed and use a set of complex geometries.
 
