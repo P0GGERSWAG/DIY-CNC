@@ -5,13 +5,15 @@ This design is my take on the common gantry CNC mill. The design is also more sp
 <img width="1053" height="988" alt="image" src="https://github.com/user-attachments/assets/30792567-220d-4f82-8aaf-6d99ac522dec" />
 
 ## Goal - 
-The main focus of the design was to develop a rigid and stable machine that will be able to machine aluminum quickly and harder steels, while also staying relatively cheap. Therefore, the use of 3D printed parts is common as a means to save money on outsourced aluminum machining. Although a majority of the parts are 3D printable it is recommended to later upgrade to aluminum for greater accuracy and rigidity (spindle plates). Other than the spindle, the rest of the build uses aluminum parts that are significantly too big for a standard 256 x 256 x 256 mm 3d printer causing them to have to be outsourced. The reasoning for the sizing of these part (y axis brace and gantry arms) were to cope for significant axial forces.
+The main focus of the design was to develop a rigid and stable machine that will be able to machine aluminum quickly and harder steels, while also staying relatively cheap. Therefore, the use of 3D printed parts is common as a means to save money on outsourced aluminum machining. Although a majority of the parts are 3D printable it is recommended to later upgrade to aluminum for greater accuracy and rigidity (spindle plates). Other than the spindle, the rest of the build uses aluminum parts that are significantly too big for a standard 256 x 256 x 256 mm 3d printer causing them to have to be outsourced. The reasoning for the sizing of these part (y axis brace and gantry arms) were to cope for significant axial forces. Made this primarily as a design challenge for myself and to use to reduce cost on more complex and expensive machines and devices.
 
 ### CAD - 
 The design is essentially complete, with minor changes that are going to be applied once greater testing occurs. 
 
 ### Part Selection Reasoning - 
 A few of the parts like the 800W water-cooled spindle and the use of SFU1204 ball screws may be questioned, though they were generally chosen to ensure that the parts come nearly 100% safe and simpler to use. Regarding the 800W spindle combo, when researching for a specific spindle I had to consider 3 major things: US power constraints, cooling, and noise. Companies like RATTMOTOR and etc, came up commonly, though when reading each of their reviews they were extremely mixed. Leading me to choose a Chinese company, G-Penny. They sell high quality spindles with solid ceramic bearings and wiring I don't have to tamper with, along with this it simplifies the search, since I needed a VFD that could run 110V. The SFU1204 ball screw was chosen specifically for accuracy, since I plan on making some extremely precise builds in the future and need that accuracy. The use of GRBL and the arduino system was quickly switched to mainly due to the need to reduce cost. The rail selection was based off of sizing and the availability of each on Aliexpress.
+
+## Wiring - 
 
 ### Specifications - 
 
@@ -53,9 +55,10 @@ To note, the aluminum parts at the end are for a set of custom milled UPGRADES A
 | 2020 Extruded Aluminum: 400mm 500mm 560mm | 105.28 | https://www.aliexpress.us/item/3256807923095651.html | 1 400mm 2 500mm 2 560mm | 15 |
 | Frame rails and y axis brace | 242.20 | https://jlccnc.com/ | 2 frame rails 1 axis brace | 16 |
 | MDF spoilboard | 4.82 | https://www.homedepot.com/p/ProWood-1-4-in-x-12-in-x-18-in-Medium-Density-Fiberboard-Project-Panel-420510/313763530 | 1 | 17 |
-| Aluminum parts (POTENTIAL UPGRADES IS NOT CONSIDERED IN TOTAL) | 242.20 (FOR FUTURE NOT MADE YET) | https://www.midweststeelsupply.com/store/6061aluminumplate | 3 of 15x5.5 2 of 12.5x4 | 18 |
+| Relay | 9.99 | https://www.pibot.com/pibot-isolated-relay-rev-2-0.html?srsltid=AU7gw4WfUkKrUwsni22XPNizeOCcdAciQDRYNgvbAIlE7ZFOlAy2bVS- | 1 | 18 |
+| Aluminum parts (POTENTIAL UPGRADES IS NOT CONSIDERED IN TOTAL) | 242.20 (FOR FUTURE NOT MADE YET) | https://www.midweststeelsupply.com/store/6061aluminumplate | 3 of 15x5.5 2 of 12.5x4 | 19 |
 
-| Total | 1175.09 |
+| Total | 1185.08 |
 | ----- | ------- |
 
 ### Future - 
