@@ -17,6 +17,8 @@ The design is essentially complete, with minor changes that are going to be appl
 A few of the parts like the 800W water-cooled spindle and the use of SFU1204 ball screws may be questioned, though they were generally chosen to ensure that the parts come nearly 100% safe and simpler to use. Regarding the 800W spindle combo, when researching for a specific spindle I had to consider 3 major things: US power constraints, cooling, and noise. Companies like RATTMOTOR and etc, came up commonly, though when reading each of their reviews they were extremely mixed. Leading me to choose a Chinese company, G-Penny. They sell high quality spindles with solid ceramic bearings and wiring I don't have to tamper with, along with this it simplifies the search, since I needed a VFD that could run 110V. The SFU1204 ball screw was chosen specifically for accuracy, since I plan on making some extremely precise builds in the future and need that accuracy. The use of GRBL and the arduino system was quickly switched to mainly due to the need to reduce cost. The rail selection was based off of sizing and the availability of each on Aliexpress.
 
 ## Wiring - 
+<img width="803" height="451" alt="image" src="https://github.com/user-attachments/assets/da529fd1-4ff5-4996-a548-f4649665dab5" />
+<img width="168" height="216" alt="image" src="https://github.com/user-attachments/assets/fc25d1b9-1557-4ea8-8d35-5e4a8ccc1e1f" />
 
 ### Specifications - 
 
