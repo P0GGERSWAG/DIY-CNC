@@ -4,6 +4,9 @@ This design is my take on the common gantry CNC mill. The design is also more sp
 
 <img width="1053" height="988" alt="image" src="https://github.com/user-attachments/assets/30792567-220d-4f82-8aaf-6d99ac522dec" />
 
+## Reasoning behind build - 
+When looking toward the future, I want to design, build, and test more mechanically complex projects and by developing this machine at home I can not only prototype metallic parts quicker, but also save money on shipping and tariffs. I also designed this primarily as a challenge for myself, teaching me more about coreXY, gantrys, and etc.
+
 ## Goal - 
 The main focus of the design was to develop a rigid and stable machine that will be able to machine aluminum quickly and harder steels, while also staying relatively cheap. Therefore, the use of 3D printed parts is common as a means to save money on outsourced aluminum machining. Although a majority of the parts are 3D printable it is recommended to later upgrade to aluminum for greater accuracy and rigidity (spindle plates). Other than the spindle, the rest of the build uses aluminum parts that are significantly too big for a standard 256 x 256 x 256 mm 3d printer causing them to have to be outsourced. The reasoning for the sizing of these part (y axis brace and gantry arms) were to cope for significant axial forces. Made this primarily as a design challenge for myself and to use to reduce cost on more complex and expensive machines and devices.
 
