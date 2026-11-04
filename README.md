@@ -12,7 +12,7 @@ The main focus of the design was to develop a rigid and stable machine that will
 When looking toward the future, I want to design, build, and test more mechanically complex projects and by developing this machine at home I can not only prototype metallic parts quicker, but also save money on shipping and tariffs. I also designed this primarily as a challenge for myself, teaching me more about coreXY, gantrys, and etc.
 
 ### CAD - 
-The design is essentially complete, with minor changes that are going to be applied once greater testing occurs. 
+The design is essentially complete, with minor changes that are going to be applied once greater testing occurs. Uses 300+ Socket Head Cap screws to hold everything together. Uses ball screws and HGR and MGN linear rails to guide and move linearly. 
 
 ### Part Selection Reasoning - 
 A few of the parts like the 800W water-cooled spindle and the use of SFU1204 ball screws may be questioned, though they were generally chosen to ensure that the parts come nearly 100% safe and simpler to use. Regarding the 800W spindle combo, when researching for a specific spindle I had to consider 3 major things: US power constraints, cooling, and noise. Companies like RATTMOTOR and etc, came up commonly, though when reading each of their reviews they were extremely mixed. Leading me to choose a Chinese company, G-Penny. They sell high quality spindles with solid ceramic bearings and wiring I don't have to tamper with, along with this it simplifies the search, since I needed a VFD that could run 110V. The SFU1204 ball screw was chosen specifically for accuracy, since I plan on making some extremely precise builds in the future and need that accuracy. The use of GRBL and the arduino system was quickly switched to mainly due to the need to reduce cost. The rail selection was based off of sizing and the availability of each on Aliexpress.
@@ -28,6 +28,7 @@ A few of the parts like the 800W water-cooled spindle and the use of SFU1204 bal
 - SFU1204 ball screws for XYZ axis
 - Nema 17 open loop steppers
 - Concrete-filled base + 2020 extrusion frame
+- 547.502 x 644.165 x 454.462 mm total size
 
 ### Firmware/Software - 
 GRBL - https://github.com/gnea/grbl/releases#release-v1.1h.20190825
