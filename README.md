@@ -3,21 +3,27 @@
 This design is my take on the common gantry CNC mill. The design is also more specific toward the US.
 
 Side:
+
 <img width="1053" height="988" alt="image" src="https://github.com/user-attachments/assets/30792567-220d-4f82-8aaf-6d99ac522dec" />
 
 Top:
+
 <img width="681" height="813" alt="image" src="https://github.com/user-attachments/assets/b58f03e4-4b17-4e3e-9212-f26daf29e074" />
 
 Bottom:
+
 <img width="665" height="779" alt="image" src="https://github.com/user-attachments/assets/a21ca3b6-6fc3-4854-a28b-518abd9cd52b" />
 
 Left: 
+
 <img width="769" height="607" alt="image" src="https://github.com/user-attachments/assets/b8ec447f-d83c-4808-8214-a0a69ec5ca28" />
 
 Right:
+
 <img width="789" height="600" alt="image" src="https://github.com/user-attachments/assets/b512d260-454d-4b77-9010-0f245c28325e" />
 
 Front:
+
 <img width="678" height="560" alt="image" src="https://github.com/user-attachments/assets/ea596faf-93fa-4cbd-9f2e-029121762329" />
 
 
